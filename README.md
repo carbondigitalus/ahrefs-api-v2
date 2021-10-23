@@ -37,6 +37,8 @@
   <p align="center">
     Using the Ahrefs API v2, with Node.js and saving the data locally in a JSON file.
     <br />
+    *Note* The license for this repo only applies to the code present. You're still required to abibe by the rules and limitations set for by Ahrefs for their API. 
+    <br />
     <a href="https://github.com/carbondigitalus/node-text-encoder"><strong>Explore the docs »</strong></a>
     <br />
     <br />
