@@ -75,7 +75,7 @@
 
 ## About The Project
 
-This is a very simple project. We are taking the existing v2 API from Ahrefs, and plugging it into Node.js for internal use. .
+This is a very simple project. We are taking the existing v2 API from Ahrefs, and plugging it into Node.js for internal use.
 
 ### Built With
 
