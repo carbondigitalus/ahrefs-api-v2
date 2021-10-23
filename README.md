@@ -19,23 +19,23 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![MIT License][license-shield]][license-url] -->
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/carbondigitalus/node-text-encoder">
+  <a href="https://github.com/fortembr/ahrefs-api-v2">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Node Text Encoder</h3>
+  <h3 align="center">Ahrefs API V2</h3>
 
   <p align="center">
-    Using the Ahrefs API v2, and saving the data locally in a JSON file.
+    Using the Ahrefs API v2, with Node.js and saving the data locally in a JSON file.
     <br />
     <a href="https://github.com/carbondigitalus/node-text-encoder"><strong>Explore the docs »</strong></a>
     <br />
