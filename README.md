@@ -161,15 +161,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/carbondigitalus/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/fortembr/repo.svg?style=for-the-badge
 [contributors-url]: https://github.com/fortembr/ahrefs-api-v2/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/carbondigitalus/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/fortembr/repo.svg?style=for-the-badge
 [forks-url]: https://github.com/fortembr/ahrefs-api-v2/network/members
-[stars-shield]: https://img.shields.io/github/stars/carbondigitalus/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/fortembr/repo.svg?style=for-the-badge
 [stars-url]: https://github.com/fortembr/ahrefs-api-v2/stargazers
-[issues-shield]: https://img.shields.io/github/issues/carbondigitalus/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/fortembr/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/fortembr/ahrefs-api-v2/issues
-[license-shield]: https://img.shields.io/github/license/carbondigitalus/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/fortembr/repo.svg?style=for-the-badge
 [license-url]: https://github.com/fortembr/ahrefs-api-v2/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/carbondigitalus
