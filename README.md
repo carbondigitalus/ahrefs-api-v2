@@ -1,7 +1,3 @@
-# ahrefs-api-v2
-
-Using the Ahrefs API v2, and saving the data locally in a JSON file.
-
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -39,7 +35,7 @@ Using the Ahrefs API v2, and saving the data locally in a JSON file.
   <h3 align="center">Node Text Encoder</h3>
 
   <p align="center">
-    Text encoder built for encoding email addresses, but useful for any simple conversions.
+    Using the Ahrefs API v2, and saving the data locally in a JSON file.
     <br />
     <a href="https://github.com/carbondigitalus/node-text-encoder"><strong>Explore the docs »</strong></a>
     <br />
@@ -166,14 +162,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/carbondigitalus/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/carbondigitalus/node-text-encoder/graphs/contributors
+[contributors-url]: https://github.com/fortembr/ahrefs-api-v2/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/carbondigitalus/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/carbondigitalus/node-text-encoder/network/members
+[forks-url]: https://github.com/fortembr/ahrefs-api-v2/network/members
 [stars-shield]: https://img.shields.io/github/stars/carbondigitalus/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/carbondigitalus/node-text-encoder/stargazers
+[stars-url]: https://github.com/fortembr/ahrefs-api-v2/stargazers
 [issues-shield]: https://img.shields.io/github/issues/carbondigitalus/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/carbondigitalus/node-text-encoder/issues
+[issues-url]: https://github.com/fortembr/ahrefs-api-v2/issues
 [license-shield]: https://img.shields.io/github/license/carbondigitalus/repo.svg?style=for-the-badge
-[license-url]: https://github.com/carbondigitalus/node-text-encoder/blob/master/LICENSE.txt
+[license-url]: https://github.com/fortembr/ahrefs-api-v2/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/carbondigitalus
