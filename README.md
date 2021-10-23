@@ -80,7 +80,6 @@ This is a very simple project. We are taking the existing v2 API from Ahrefs, an
 ### Built With
 
 - [Node](https://nodejs.org)
-- [Typescript](http://typescript.com/)
 - [Ahrefs API v2](https://app.ahrefs.com/api/)
 
 <!-- GETTING STARTED -->
