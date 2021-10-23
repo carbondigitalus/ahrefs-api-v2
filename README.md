@@ -61,12 +61,10 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -77,34 +75,25 @@
 
 ## About The Project
 
-This is a very simple string to HTML code conversion tool. This is a tool that we utilize for client websites to assist in masking their email address from spam bot crawlers. There aren't any guarantees that you'll be safe, but it helps to take extra precautions.
+This is a very simple project. We are taking the existing v2 API from Ahrefs, and plugging it into Node.js for internal use. .
 
 ### Built With
 
 - [Node](https://nodejs.org)
-- [NPM](https://www.npmjs.com/)
-- [NPM Package fast-text-encoding](https://www.npmjs.com/package/fast-text-encoding)
+- [Typescript](http://typescript.com/)
+- [Ahrefs API v2](https://app.ahrefs.com/api/)
 
 <!-- GETTING STARTED -->
 
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
+To get a local copy up and running follow these simple steps. You should have Node.js and NPM installed on your computer at a minimum. You will need to have a basic understanding of how these tools operate in order to effectively manage the below tasks.
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/carbondigitalus/node-text-encoder.git
+   git clone https://github.com/fortembr/ahrefs-api-v2.git
    ```
 2. Install NPM packages
    ```sh
@@ -116,23 +105,15 @@ This is an example of how to list things you need to use the software and how to
 ## Usage
 
 <p align="center">
-  <img src="images/screenshot-variable.png" alt="screenshot code" width="300">
+  <img src="images/config.png" alt="screenshot code" width="300">
 </p>
 
-1. For the variable, baseText, add your email address or text string to encode. Then save the file.
+1. In the config.env file, add your Ahrefs API Token, and the domain you want to check. Then save the file.
 2. Run project.
    ```sh
    npm run start
    ```
-3. Your encoded text is located in the results.txt file and the console.
-
-If you need to, you can verify that your encoding is correct with [Text Fixer](https://www.textfixer.com/html/html-to-text.php).
-
-<!-- ROADMAP -->
-
-## Roadmap
-
-See the [open issues](https://github.com/carbondigitalus/node-text-encoder/issues) for a list of proposed features (and known issues).
+3. Your JSON file is located in the results.json file and the console.
 
 <!-- CONTRIBUTING -->
 
@@ -151,14 +132,14 @@ Contributions are what make the open source community such an amazing place to l
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+<br>
+_Note_ The license for this repo only applies to the code present. You're still required to abibe by the rules and limitations set for by Ahrefs for their API.
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## Acknowledgements
 
-- []()
-- []()
-- []()
+- [Jared L.](https://github.com/jared-leddy)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
