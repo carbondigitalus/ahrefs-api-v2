@@ -29,7 +29,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/fortembr/ahrefs-api-v2">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="300" height="">
   </a>
 
   <h3 align="center">Ahrefs API V2</h3>
