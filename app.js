@@ -26,7 +26,6 @@ const ahrefsAPIURL = `https://apiv2.ahrefs.com?token=${ahrefsToken}&target=${ahr
     fs.writeFileSync(`${__dirname}/results.json`, jsonData, err => {
       if (err) throw err;
       console.log('The file has been saved!');
-      console.log(res);
     });
   } catch (err) {
     console.error(err);
