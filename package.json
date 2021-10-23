@@ -1,0 +1,25 @@
+{
+  "name": "ahrefs-api-v2",
+  "version": "1.0.0",
+  "description": "<!-- *** Thanks for checking out the Best-README-Template. If you have a suggestion *** that would make this better, please fork the repo and create a pull request *** or simply open an issue with the tag \"enhancement\". *** Thanks again! Now go create something AMAZING! :D *** *** *** *** To avoid retyping too much info. Do a search and replace for the following: *** carbondigitalus, node-text-encoder, carbondigitalus, email, project_title, project_description -->",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fortembr/ahrefs-api-v2.git"
+  },
+  "keywords": [
+    "ahrefs",
+    "node",
+    "api",
+    "json"
+  ],
+  "author": "fortembr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fortembr/ahrefs-api-v2/issues"
+  },
+  "homepage": "https://github.com/fortembr/ahrefs-api-v2#readme"
+}
